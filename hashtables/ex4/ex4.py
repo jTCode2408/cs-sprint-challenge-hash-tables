@@ -1,6 +1,7 @@
 def has_negatives(a):
     """
-    YOUR CODE HERE
+    find positive elemnts that have negative elements in arra
+    -limit 5,000,000
     """
     # Your code here
 
